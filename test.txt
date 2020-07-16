@@ -1,8 +1,7 @@
 Tran Viet Hoang
 Sinh Vien
 Rat Dep Zai
-<<<<<<< HEAD
-Hello ABC XYZ
-=======
+HEAD
+Hello ABC XYZ 456
 Say Yeah Yeah
->>>>>>> testConflict
+ testConflict
